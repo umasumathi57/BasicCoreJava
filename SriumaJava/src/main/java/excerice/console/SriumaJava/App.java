@@ -1,13 +1,22 @@
 package excerice.console.SriumaJava;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class App
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+	public static void main( String[] args)
+	{
+	System.out.println(" Hi Sriuma ! Welcome to Java learning ");
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
