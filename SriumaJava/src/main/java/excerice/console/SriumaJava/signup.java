@@ -20,9 +20,9 @@ public class signup
 		Long mobNo=0L;
 		Integer bdayMon=0;	
 		System.out.println("Enter the firstName");
-		firstName=sriuma.next();
+		firstName=sriuma.nextLine();
 		System.out.println("Enter the lastName");
-		lastName=sriuma.next();
+		lastName=sriuma.nextLine();
 		System.out.println("Enter the Monile number");
 		mobNo=sriuma.nextLong();
 		System.out.println("Enter the Bday month");
