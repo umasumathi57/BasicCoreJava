@@ -17,7 +17,9 @@ public class Casting {
 			
 			Integer a=100;
 			System.out.println((float)a);
-			System.out.println((double)a);	
+			System.out.printf("%.2f",(float)a);
+
+		//	System.out.println((double)a);	
 		// ASCII conversion
 			
 			/*
