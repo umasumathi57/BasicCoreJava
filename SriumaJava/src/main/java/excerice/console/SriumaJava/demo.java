@@ -16,8 +16,8 @@ public class demo
 		
 				System.out.println("Select the Time slot");
 				float time=scan.nextFloat();
-				//for(int temp=0;temp<10;temp++)
-				//{
+				for(int temp=0;temp<10;temp++)
+				{
 					if (time>=12.00 && time<=14.00)
 					{
 						System.out.println("Mobile ordered");
@@ -27,7 +27,7 @@ public class demo
 					{
 						System.out.println("Booking Not Available");
 					}
-				//}
+				}
 				break;
 
 			default:
